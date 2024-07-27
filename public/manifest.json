@@ -1,0 +1,26 @@
+{
+"name": "Pediatric and Lactation Clinic",
+"short_name": "Hazem Kids Clinic",
+"start_url": "/",
+"display": "standalone",
+"description": "A specialized clinic offering pediatric care and lactation support for families.",
+"lang": "en",
+"dir": "auto",
+"theme_color": "#0D7DFF",
+"background_color": "#ffffff",
+"orientation": "any",
+"icons": [
+    {
+        "src": "https://www.pwabuilder.com/assets/icons/icon_512.png",
+        "sizes": "512x512",
+        "type": "image/png",
+        "purpose": "maskable"
+    },
+    {
+        "src": "https://www.pwabuilder.com/assets/icons/icon_192.png",
+        "sizes": "192x192",
+        "type": "image/png",
+        "purpose": "any"
+    }
+]
+}
